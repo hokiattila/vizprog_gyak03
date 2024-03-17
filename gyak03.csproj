@@ -9,11 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="EzMasik\background.JPG" />
-    <None Remove="EzMasik\grabowski.JPG" />
-    <None Remove="EzMasik\kukori.JPG" />
-    <None Remove="EzMasik\kuldonc.JPG" />
-    <None Remove="EzMasik\vili.JPG" />
     <None Remove="Images\background.JPG" />
     <None Remove="Images\grabowski.JPG" />
     <None Remove="Images\kukori.JPG" />
@@ -22,21 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="EzMasik\background.JPG">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="EzMasik\grabowski.JPG">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="EzMasik\kukori.JPG">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="EzMasik\kuldonc.JPG">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="EzMasik\vili.JPG">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Resource>
     <Resource Include="Images\background.JPG">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>

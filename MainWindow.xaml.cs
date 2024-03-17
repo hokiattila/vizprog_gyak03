@@ -28,6 +28,7 @@ namespace gyak03
 
         public MainWindow()
         {
+            _biBackground = new();
             InitializeComponent();
             _imImages = new Image[] {im10, im11, im12, im13,
                                      im20, im21, im22, im23 };

@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|c:\\users\\hokia\\desktop\\vizprog_gyak03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-17T14:46:06.502Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABUAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAtwB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T12:13:27.021Z",
               "EditorCaption": ""
@@ -42,7 +59,8 @@
               "ToolTip": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-12T11:18:58.377Z"
+              "WhenOpened": "2024-03-12T11:18:58.377Z",
+              "EditorCaption": ""
             }
           ]
         }
