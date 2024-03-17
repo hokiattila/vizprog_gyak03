@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\T470S\\source\\repos\\gyak03\\",
+  "WorkspaceRootPath": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|c:\\users\\t470s\\source\\repos\\gyak03\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|c:\\users\\hokia\\desktop\\vizprog_gyak03\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|c:\\users\\t470s\\source\\repos\\gyak03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\T470S\\source\\repos\\gyak03\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\T470S\\source\\repos\\gyak03\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T12:13:27.021Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\T470S\\source\\repos\\gyak03\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\T470S\\source\\repos\\gyak03\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-12T11:18:58.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T11:18:58.377Z"
             }
           ]
         }

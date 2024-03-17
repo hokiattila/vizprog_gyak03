@@ -20,10 +20,11 @@ namespace gyak03
         string _BackgroundName = "background.jpg";
         string[] _ImageNames = {"grabowski.jpg","kukori.jpg","kuldonc.jpg", "vili.jpg"};
         BitmapImage _biBackground;
-        BitmapImage[] _biImages = new BitmapImage[0];
+        BitmapImage[] _biImages = new BitmapImage[8];
         Image[] _imImages;
         Random rnd = new Random();
         private DispatcherTimer _dt;
+        private string imgPath = @"C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\Images\\";
 
         public MainWindow()
         {
@@ -52,16 +53,17 @@ namespace gyak03
         {
             try
             {
-                _biBackground = new BitmapImage(new Uri(@"Images/" + _BackgroundName, UriKind.Relative));
+ 
+            _biBackground = new BitmapImage(new Uri(imgPath + _BackgroundName, UriKind.RelativeOrAbsolute));
                 for(int i = 0; i < 4; i++)
                 {
-                    _biImages[i] = new BitmapImage(new Uri(@"Images/" + _ImageNames[i], UriKind.Relative));
+                    _biImages[i] = new BitmapImage(new Uri(imgPath + _ImageNames[i], UriKind.RelativeOrAbsolute));
                     _biImages[i + 4] = _biImages[i];
                 }
 
-            } catch(Exception)
+            } catch(Exception e)
             {
-                MessageBox.Show("A képek nem találhatóak", "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show(e.Message, "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
