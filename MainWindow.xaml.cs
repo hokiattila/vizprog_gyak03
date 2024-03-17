@@ -24,7 +24,7 @@ namespace gyak03
         Image[] _imImages;
         Random rnd = new Random();
         private DispatcherTimer _dt;
-        private string imgPath = @"C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\Images\\";
+        private string imgPath = @"Images/";
 
         public MainWindow()
         {

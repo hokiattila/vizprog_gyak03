@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|c:\\users\\hokia\\desktop\\vizprog_gyak03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B947382C-BBD7-4B82-B4E9-D367F533D62F}|gyak03.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -45,14 +45,14 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAtwB4AAAAiAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T12:13:27.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\vizprog_gyak03\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
